@@ -9,7 +9,7 @@ Geospacial Analysis: https://www.kaggle.com/datasets/liewyousheng/geolocation
 
 # How to Run The Notebook.
 1. Login to Kaggle.com
-2. Visit https://www.kaggle.com/datasets/alfathterry/telco-customer-churn-11-1-3/data link
+2. Visit  https://www.kaggle.com/datasets/liewyousheng/geolocation link
 3. Click on "New Notebook" Option Available on the top of the screen.
 4. Download the ".ipynb" File attached in the current repository, select the right version
 5. Upload On the New Notebook place by clicking on Import Notebook option.
