@@ -5,7 +5,7 @@ Analyzing global cities based on their latitude and longitude.
 Python 3.8+ Jupyter Notebook - Kaggle Notebook is preferrable.
 
 # Dataset
-Geospacial Analysis: [/kaggle/input/geolocation](https://www.kaggle.com/datasets/liewyousheng/geolocation)
+Geospacial Analysis: (https://www.kaggle.com/datasets/liewyousheng/geolocation)
 
 # How to Run The Notebook.
 1. Login to Kaggle.com
